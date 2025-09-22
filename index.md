@@ -6,3 +6,7 @@
 ``` Java
 System.out.print("Hello World!");
 ```
+
+- [ ] Šodien goonoju
+- [x] Slimoju Ēriku
+- [ ] Nomazgāties
